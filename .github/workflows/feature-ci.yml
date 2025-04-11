@@ -5,7 +5,7 @@ on:
     branches:
       -feature**
 
-jobs: ci
+jobs:
   ci:
     runs-on: ubuntu-last
     steps:
